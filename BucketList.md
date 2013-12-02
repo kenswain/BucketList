@@ -17,11 +17,8 @@
 * Be invited to speak at a security conference
 * Publish a technical book
 
-<<<<<<< HEAD
-## Adventure Stuff
+## Adventure and Fun
 
+* Play golf at saint andrews
+* Hang Glide
 * Parachute
-
-=======
-## Fun Stuff
->>>>>>> parent of 0ac0b51... Added an adventure section
