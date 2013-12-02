@@ -21,3 +21,4 @@
 
 * Parachute
 * Hang glide 
+* Play golf at Saint Andrews
