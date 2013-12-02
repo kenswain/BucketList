@@ -17,4 +17,7 @@
 * Be invited to speak at a security conference
 * Publish a technical book
 
-## Fun Stuff
+## Adventure Stuff
+
+* Parachute
+* Hang glide 
