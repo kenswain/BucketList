@@ -2,7 +2,7 @@
 
 ## Lifestyle
 
-* Live on a vinyard when I retire
+* Live on a vineyard when I retire
 * Play golf 3 times a week
 * Live debt free
 
@@ -10,16 +10,18 @@
 
 * Visit Japan
 * Visit Ireland
+* Visit Scotland
+* Visit Italy 
 
-## Professional
+## Professional 
 
 * Speak at 8 to 10 events a year
 * Be invited to speak at a security conference
 * Publish a technical book
 
-## Adventure and Fun
+## Adventure and  Fun
 
-* Play golf at saint andrews
+* Play golf at Saint Andrews
 * Hang Glide
 * Parachute
 * Learn to fly
