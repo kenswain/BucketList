@@ -25,3 +25,4 @@
 * Hang Glide
 * Parachute
 * Learn to fly
+* Learn to scuba dive
