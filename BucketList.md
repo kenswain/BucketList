@@ -18,6 +18,7 @@
 * Speak at 8 to 10 events a year
 * Be invited to speak at a security conference
 * Publish a technical book
+* Publish a mobile application
 
 ## Adventure and  Fun
 
