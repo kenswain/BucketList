@@ -15,7 +15,7 @@
 
 ### Professional 
 
-* Speak at 8 to 10 events a year
+* Speak at 3 to 5 events a year
 * Be invited to speak at a security conference
 * Publish a technical book
 * Publish a mobile application
@@ -27,3 +27,4 @@
 * Parachute
 * Learn to fly
 * Learn to scuba dive
+* Play a round at Pinehurst
