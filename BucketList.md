@@ -28,4 +28,5 @@
 * Learn to fly
 * Learn to scuba dive
 * Play a round at Pinehurst
+* Play a round of golf at Pebble Beach
 * Go Skiing/Snow Boarding
