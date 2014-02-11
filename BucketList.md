@@ -28,3 +28,4 @@
 * Learn to fly
 * Learn to scuba dive
 * Play a round at Pinehurst
+* Go Skiing/Snow Boarding
