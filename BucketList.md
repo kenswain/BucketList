@@ -30,4 +30,3 @@
 * Play a round at Pinehurst
 * Play a round of golf at Pebble Beach
 * Go Skiing/Snow Boarding
-
