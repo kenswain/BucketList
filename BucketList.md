@@ -15,8 +15,8 @@
 
 ### Professional 
 
-* Speak at 3 to 5 events a year
-* Be invited to speak at a security conference
+~ * Speak at 3 to 5 events a year~
+~ * Be invited to speak at a security conference~
 * Publish a technical book
 * Publish a mobile application
 
@@ -30,3 +30,4 @@
 * Play a round at Pinehurst
 * Play a round of golf at Pebble Beach
 * Go Skiing/Snow Boarding
+
