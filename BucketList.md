@@ -2,7 +2,6 @@
 
 ### Lifestyle
 
-* Live on a vineyard when I retire
 * Play golf 3 times a week
 * Live debt free
 
