@@ -2,8 +2,8 @@
 
 ### Lifestyle
 
-* Play golf 3 times a week
 * Live debt free
+* Simplify life so that I can move into a Tiny House
 
 ### Travel
 
@@ -22,7 +22,7 @@
 ### Adventure and  Fun
 
 * Play golf at Saint Andrews
-* Hang Glide
+* Paraglide
 * Parachute
 * Learn to fly
 * Learn to scuba dive
