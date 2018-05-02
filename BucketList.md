@@ -10,7 +10,7 @@
 * Visit Japan
 * Visit Ireland
 * Visit Scotland
-* Visit Italy 
+* Visit Italy (planned in June) 
 
 ### Professional 
 
