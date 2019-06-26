@@ -3,16 +3,16 @@
 ### Lifestyle
 
 * Live debt free
-* Simplify life so that I can move into a Tiny House
+
 
 ### Travel
 
 * Visit Japan
 * Visit Ireland
 * Visit Scotland
-* Visit Italy (planned in June) 
+* ~~Visit Italy (planned in June)~~
 
-### Professional 
+### Professional
 
 * ~~Speak at 3 to 5 events a year~~
 * ~~Be invited to speak at a security conference~~
