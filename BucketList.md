@@ -10,7 +10,7 @@
 * Visit Japan
 * Visit Ireland
 * Visit Scotland
-* ~~Visit Italy (planned in June)~~
+* ~~Visit Italy~~
 
 ### Professional
 
@@ -21,11 +21,9 @@
 
 ### Adventure and  Fun
 
-* Play golf at Saint Andrews
 * Paraglide
 * Parachute
 * Learn to fly a plane
 * Learn to scuba dive
-* Play a round at Pinehurst
 * Play a round of golf at Pebble Beach
 * Go Skiing/Snow Boarding
