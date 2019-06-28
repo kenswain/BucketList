@@ -2,7 +2,7 @@
 
 ### Lifestyle
 
-* Live debt free
+* Live debt free (Getting Close)
 
 
 ### Travel
