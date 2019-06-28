@@ -24,7 +24,7 @@
 * Play golf at Saint Andrews
 * Paraglide
 * Parachute
-* Learn to fly
+* Learn to fly a plane
 * Learn to scuba dive
 * Play a round at Pinehurst
 * Play a round of golf at Pebble Beach
