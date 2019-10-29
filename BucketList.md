@@ -18,6 +18,7 @@
 * ~~Be invited to speak at a security conference~~
 * Publish a technical book
 * Publish a mobile application
+* Start a youtube channel and post weekly
 
 ### Adventure and  Fun
 
