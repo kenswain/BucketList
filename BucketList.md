@@ -25,5 +25,4 @@
 * Parachute
 * Learn to fly a plane
 * Learn to scuba dive
-* Play a round of golf at Pebble Beach
 * Go Skiing/Snow Boarding
